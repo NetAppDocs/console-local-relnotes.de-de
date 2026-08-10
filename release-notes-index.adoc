@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: release-notes-index.html 
+keywords: release notes 
+summary: Die vollständigen Versionshinweise zu den lokalen Bereitstellungsfunktionen der NetApp Console und den NetApp Datenservices sind verfügbar. 
+---
+= Inhaltsverzeichnis der Versionshinweise
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Die vollständigen Versionshinweise zu den lokalen Bereitstellungsfunktionen der NetApp Console und den NetApp Datendiensten sind verfügbar.
+
+
+
+[[netapp-console-local-deployment]]
+== NetApp Console lokale Bereitstellung
+
+* https://docs.netapp.com/us-en/console-local/whats-new.html["NetApp Console lokale Bereitstellung"^]
+
+
+
+
+[[data-services]]
+== Datenservices
+
+* https://docs.netapp.com/us-en/data-services-backup-recovery/whats-new.html["Backup and Recovery"^]
+
