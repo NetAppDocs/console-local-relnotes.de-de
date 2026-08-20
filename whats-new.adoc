@@ -80,6 +80,8 @@ Weitere Informationen zum Schutz von Oracle Database-Workloads finden Sie unter 
 
 https://docs.netapp.com/us-en/console-local/concept-netapp-console-local.html["Lokale Bereitstellung der NetApp Console kennenlernen"].
 
+https://docs.netapp.com/us-en/console-local/console-differences.html["Die Unterschiede zwischen der lokalen Bereitstellung der NetApp Console und NetApp Console SaaS und dem privaten Modus"].
+
 
 
 [[backup-and-recovery]]
