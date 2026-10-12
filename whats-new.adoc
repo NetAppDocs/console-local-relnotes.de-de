@@ -244,21 +244,3 @@ In dieser Version wurden für ONTAP Volumes Workloads die folgenden Verbesserung
 
 
 Weitere Informationen zum Schutz von ONTAP Volumes-Workloads finden Sie unter  https://docs.netapp.com/us-en/data-services-backup-recovery/prev-ontap-protect-overview.html["Überblick über den Schutz von ONTAP Volumes Workloads"].
-
-
-
-[[13-july-2026]]
-== 13. Juli 2026
-
-
-
-[[backup-and-recovery]]
-=== Backup and Recovery
-
-
-
-==== Erweiterte Unterstützung mehrerer Buckets für alle Workloads
-
-NetApp Backup and Recovery unterstützt jetzt den Schutz von Workloads innerhalb eines Systems mit bis zu 100 Buckets bei verschiedenen Cloud-Anbietern. ONTAP 9.19.1 oder höher ist erforderlich, um mehr als 6 Buckets pro System zu unterstützen.
-
-Weitere Informationen zu NetApp Backup und Recovery finden sich unter  https://docs.netapp.com/us-en/data-services-backup-recovery/concept-backup-to-cloud.html["Informationen zu NetApp Backup and Recovery"].
