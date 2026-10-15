@@ -126,4 +126,5 @@
   <block id="2f75ea4c51ce88400f5201fdeb2ccb9d" category="inline-link">Informationen zum Schutz von Microsoft SQL Server Workloads mit NetApp Backup and Recovery</block>
   <block id="a5e96f4320434690f042cf906acacdcd" category="paragraph">Weitere Informationen zum Schutz von Microsoft SQL Server Workloads finden Sie unter<block ref="36e999a623e2068d9719d9ca1143b559" category="inline-link-rx"></block>.</block>
   <block id="e019cb225a4644922cdd06575b099710" category="section-title">12. Oktober 2026</block>
+  <block id="54ea8878308d39d6d78a01f24a278aa1" category="list-text">*Benutzerdefinierte Datumsbereichsfilterung im Job Monitor*: Sie können jetzt im Job Monitor nach Jobs aus den vergangenen 90 Tagen suchen, indem Sie in einem Kalender ein benutzerdefiniertes Start- und Enddatum auswählen.</block>
 </blocks>
